@@ -1,7 +1,5 @@
 import os
 
-isloggedin = False
-
 login_option = input("(1) Logging in\n(2) Creating a new account:\n>----------------------------<\n ")
 
 def vault():
